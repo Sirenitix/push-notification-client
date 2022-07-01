@@ -1,3 +1,3 @@
-###export NODE_OPTIONS=--openssl-legacy-provider
-##npm install --legacy-peer-deps
-#npm start
+export NODE_OPTIONS=--openssl-legacy-provider
+npm install --legacy-peer-deps
+npm start
